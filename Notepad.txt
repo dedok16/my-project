@@ -1,0 +1,25 @@
+`${ }`
+
+` `
+~  
+
+New project:  n15-r19-tw4-shadcn/ui
+
+1. Create project:
+
+ npx shadcn@latest init
+ 
+2. Add Components:
+
+npx shadcn@latest add button card input checkbox form radio-group select dropdown-menu
+
+
+Чтобы получить ссылку на код на GitHub из видео, напиши слово АЛХИМИЯ в боте: https://t.me/ArtemShumeikoBot
+
+
+
+
+// guyCPl4jFmmV622q    -   PW
+// shestak16_db-user
+// mongodb+srv://shestak16_db_user:guyCPl4jFmmV622q@cluster0.u6bi4wl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+// 212.8.253.163/32  -  пока удален
